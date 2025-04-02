@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I successfully defended my PhD thesis at LMU Munich, with "summa cum laude". Yay! :smile:
+I successfully defended my PhD thesis at LMU Munich with "summa cum laude". Yay!
 

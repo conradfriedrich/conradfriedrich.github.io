@@ -2,28 +2,14 @@
   "basics": {
     "name": "Conrad Friedrich",
     "email": "conradfriedrich [ at ] lmu [ dot ] de",
-    "summary": "A philosopher working in epistemology and philosophy of language",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "summary": "A philosopher working in epistemology and philosophy of language."
   },
   "work": [
     {
       "name": "Munich Center for Mathematical Philosophy, LMU Munich",
       "position": "Postdoctoral Research Fellow",
       "url": "https://www.mcmp.philosophie.uni-muenchen.de/index.html",
-      "startDate": "2024",
+      "startDate": "2025",
       "endDate": "2025"
     },    {
       "name": "Munich Center for Mathematical Philosophy, LMU Munich",
@@ -42,18 +28,21 @@
     }
   ],
   "education": [
-    {
-      "institution": "Munich Center for Mathematical Philosophy, LMU Munich",
-      "studyType": "PhD"
-    },{
-      "institution": "Munich Center for Mathematical Philosophy, LMU Munich",
-      "studyType": "M.A. Logic and Philosophy of Science"
-    }, {
-      "institution": "University of Cologne",
-      "studyType": "B.A. in Philosophy"
-    } ,{
+{
       "institution": "University of Cologne",
       "studyType": "B.A. in Information Science"
+    },
+{
+      "institution": "University of Cologne",
+      "studyType": "B.A. in Philosophy"
+    }, 
+    {
+      "institution": "Munich Center for Mathematical Philosophy, LMU Munich",
+      "studyType": "M.A. Logic and Philosophy of Science"
+    },
+{
+      "institution": "Munich Center for Mathematical Philosophy, LMU Munich",
+      "studyType": "PhD"
     }
   ]
 }
