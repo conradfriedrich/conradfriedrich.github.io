@@ -30,7 +30,7 @@ latest_posts:
 
 I'm a postdoc at the <a href="https://www.mcmp.philosophie.uni-muenchen.de/index.html">Munich Center for Mathematical Philosophy (MCMP)</a> at <a href="https://www.lmu.de/de/index.html">LMU Munich</a>.
 
-My research focuses on issues in epistemology and the philosophy of language. 
+My research focuses on epistemology and the philosophy of language. 
 
 I'm also interested in issues in philophical logic, the philosophy of artificial intelligence, and metaphysics.
 
