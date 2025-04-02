@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Postdoc</p> <br/>
-    <p><a href="https://www.mcmp.philosophie.uni-muenchen.de/index.html">MCMP</a>, LMU Munich</p>
+    <p><a href="https://www.mcmp.philosophie.uni-muenchen.de/index.html">MCMP</a>, <a href="https://www.lmu.de/de/index.html">LMU Munich</a></p>
     <p>Ludwigstr. 31 (room 223)</p>
     <p>80539 Munich</p>
 
@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a postdoc at the Munich Center for Mathematical Philosophy (MCMP) at LMU Munich.
+I'm a postdoc at the <a href="https://www.mcmp.philosophie.uni-muenchen.de/index.html">Munich Center for Mathematical Philosophy (MCMP)</a> at <a href="https://www.lmu.de/de/index.html">LMU Munich</a>.
 
 My research focuses on issues in epistemology and the philosophy of language. 
 
