@@ -1,12 +1,8 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Conrad Friedrich",
+    "email": "conradfriedrich [ at ] lmu [ dot ] de",
+    "summary": "A philosopher working in epistemology and philosophy of language",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,11 +20,11 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Munich Center for Mathematical Philosophy, LMU Munich",
+      "position": "Postdoctoral Research Fellow",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "2024",
+      "endDate": "2024",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }

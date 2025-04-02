@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Postdoc</p> <br/>
     <p><a href="https://www.mcmp.philosophie.uni-muenchen.de/index.html">MCMP</a>, LMU Munich</p>
-    <p>Ludwigstr. 31 (room 225)</p>
+    <p>Ludwigstr. 31 (room 223)</p>
     <p>80539 Munich</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
