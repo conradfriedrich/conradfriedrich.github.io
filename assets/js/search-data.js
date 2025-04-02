@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "",
+          description: "My short CV. I&#39;m happy to send a longer CV on request.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -30,6 +30,9 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "news-i-successfully-defended-my-phd-thesis-at-lmu-munich-with-summa-cum-laude-yay",
           title: 'I successfully defended my PhD thesis at LMU Munich with “summa cum laude”....',
+          description: "",
+          section: "News",},{id: "news-this-summer-semester-i-will-teach-a-class-at-lmu-munich-on-selected-topics-in-the-philosophy-of-language-in-german-more-information-here",
+          title: 'This summer semester, I will teach a class at LMU Munich on selected...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
