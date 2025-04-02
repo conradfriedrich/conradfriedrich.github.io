@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Conrad Friedrich",
-    "email": "conradfriedrich [ at ] lmu [ dot ] de",
+    "email": "conrad [ dot ] friedrich [ at ] lmu [ dot ] de",
     "summary": "A philosopher working in epistemology and philosophy of language."
   },
   "work": [
@@ -14,6 +14,7 @@
       "name": "Munich Center for Mathematical Philosophy, LMU Munich",
       "position": "Postdoctoral Research Fellow",
       "url": "https://www.mcmp.philosophie.uni-muenchen.de/index.html",
+      "startDate": "2024",
       "endDate": "2024",
       "summary": "In the project Rational Belief and Guilt with PI Mario Guenther"
     },
@@ -21,8 +22,8 @@
       "name": "Munich Center for Mathematical Philosophy, LMU Munich",
       "position": "Doctoral Research Fellow",
       "url": "https://www.mcmp.philosophie.uni-muenchen.de/index.html",
-      "startDate": "2023",
-      "endDate": "2019"
+      "startDate": "2019",
+      "endDate": "2023"
     }
   ],
   "education": [
