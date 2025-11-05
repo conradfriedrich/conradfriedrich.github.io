@@ -1,0 +1,15 @@
+*
+
+!*/
+!*.org
+!*.tex
+!*.png
+!*.cls
+!*.sty
+!*.webp
+!*.pdf
+!*.html
+!*/
+
+!.gitignore
+
